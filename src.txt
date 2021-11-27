@@ -1,3 +1,4 @@
 ShanghaiTech
+Google Research
 Baidu
 MSRA

@@ -2,3 +2,15 @@ ShanghaiTech
 Google Research
 Baidu
 MSRA
+FAIR
+ZJU vipa
+
+kaiming he
+shenghua gao
+xuming he
+jingyi yu
+yi ma
+lan xu
+jingya wang
+bing liu
+mingli song

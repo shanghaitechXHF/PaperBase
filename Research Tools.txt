@@ -1,0 +1,21 @@
+tex
+texlive
+overleaf
+
+reference
+endnote
+
+papers
+dblp
+google research
+review/survey
+recurisive reference by google research
+paperswithcode for sotas: https://paperswithcode.com/
+
+
+drawing
+visio
+ppt
+
+paper relation
+connect paper

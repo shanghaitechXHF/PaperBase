@@ -1,3 +1,4 @@
+Institutions: 
 ShanghaiTech
 Google Research
 Baidu
@@ -12,5 +13,22 @@ jingyi yu
 yi ma
 lan xu
 jingya wang
-bing liu
+
+Knowledge Distillation Track:
 mingli song
+
+Continual Learning Track:
+bing liu: https://www.cs.uic.edu/~liub/
+Zeynep Akata: https://www.eml-unitue.de/people/zeynep-akata
+Sebastian Risi: https://sebastianrisi.com/
+Irina Higgins: https://scholar.google.com/citations?user=YWVuCKUAAAAJ&hl=en
+Siddharth Swaroop: https://siddharthswaroop.github.io/
+Tyler L. Hayes: https://tyler-hayes.github.io/#publications
+Sayna Ebrahimi: https://people.eecs.berkeley.edu/~sayna/
+Jim Rehg: https://rehg.org/
+Eric Eaton: https://www.seas.upenn.edu/~eeaton/
+Razvan Pascanu: https://sites.google.com/view/razp
+Joost van de Weijer: http://www.cvc.uab.es/LAMP/joost/
+Hatice Gunes: https://www.cl.cam.ac.uk/~hg410/
+Andreas Tolias: https://www.bcm.edu/people-search/andreas-tolias-31804
+Jeff Clune: http://jeffclune.com/

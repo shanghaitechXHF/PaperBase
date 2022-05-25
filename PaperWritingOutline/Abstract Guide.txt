@@ -1,0 +1,20 @@
+Background (1 long sententce)
+
+Problem(1-2 sentence)
+1 However... (On the other hand)
+adj: laborious, time-consuming, costly
+
+Thesis and Purpose 1 sentence
+We propose ... method  to ...
+Our proposed method
+
+Method & Feature & Contribution & Advantage 3-4 sentence, Important
+
+Experienment Result 2 sentence
+By experimenting on ... dataset, we show that 
+
+v: achieve the start-of-the-art performance
+outperform the existing baselines
+
+Codes available 1 sentence
+

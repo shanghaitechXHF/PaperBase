@@ -19,3 +19,10 @@ ppt
 
 paper relation
 connect paper
+
+gramma check
+grammaly
+
+online learning visualization tool:
+tensorboard
+wandb

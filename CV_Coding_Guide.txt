@@ -1,0 +1,10 @@
+fastly get imagesize:
+import imagesize
+width, height = imagesize.get(image_path)
+
+show progressbar in output:
+import tqdm
+
+3rd lib
+efficientnet_pytorch
+transformers

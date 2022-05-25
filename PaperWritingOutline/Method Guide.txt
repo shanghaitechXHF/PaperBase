@@ -1,0 +1,5 @@
+Overrall Architecture
+
+Each Module
+
+Loss function

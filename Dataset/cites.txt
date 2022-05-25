@@ -1,0 +1,9 @@
+SBD
+http://home.bharathh.info/pubs/codes/SBD/download.html
+
+@InProceedings{BharathICCV2011,
+author = "Bharath Hariharan and Pablo Arbelaez and Lubomir Bourdev and Subhransu Maji and Jitendra Malik",
+title = "Semantic Contours from Inverse Detectors",
+booktitle = "International Conference on Computer Vision (ICCV)",
+year = "2011",
+}

@@ -5,6 +5,26 @@ width, height = imagesize.get(image_path)
 show progressbar in output:
 import tqdm
 
-3rd lib
+models:
+effnet:
 efficientnet_pytorch
+
+transformer:
 transformers
+
+pytorch image models:
+timm
+
+openmmcv
+mmcv_full]
+mmcv_lite
+
+
+image argument:
+import albumentations
+
+dashboard/inspector:
+tensorboard
+
+RS
+rasterio
